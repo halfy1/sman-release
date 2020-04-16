@@ -1245,7 +1245,7 @@
 	transition: all 0.3s ease-out 0s;
 }
 .tabstyle-15 .responsive-tabs li a:hover, .tabstyle-15 .responsive-tabs li.active, .tabstyle-15 .responsive-tabs li.active a {
-	color: #fccb06;
+	color: cornflowerblue;
 	background-color: #fff;
 }
 
