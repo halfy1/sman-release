@@ -2986,14 +2986,14 @@ ul.footer-flickr {
 /* section background light
  ------------------------------ */
 .section-light {
-	background-color: #f5f5f5;
+	background-color: #fff;
 }
 
 .section-light-2 {
-	background-color: #f9f8f7;
+	background-color: #fff;
 }
 .section-light-3 {
-	background-color: #f8f8f8;
+	background-color: #fff;
 }
 /* section background white
  ------------------------------ */
@@ -4351,21 +4351,21 @@ height: 88px;
 width: 30px;
 }
 
+.google-travel{
+	width: 570px;
+	height: 712px;
 
+}
 
 /*----------------------------RESPONSIVE STYLES------------------------------- */
 
-/* ---------- MAX 320PX ---------- */
+/* ---------- MAX 1366PX ---------- */
 @media only screen and (max-width: 1366px) {
 
 .header-inner.less-height .text {
     padding: 10% 0 0 0;
 
 }
-
-
-
-
 
 
 
@@ -4402,11 +4402,11 @@ width:100%;
     padding: 15% 0 0;
 }
 
+.google-travel{
+	width:460px;
+	height: 602px;
 
-
-
-
-
+}
 
 
 
@@ -4508,6 +4508,11 @@ padding-left:0px;
     padding: 14% 0 0;
 }
 
+.google-travel{
+	width:750px;
+	height: 607px;
+
+}
 
 
 
@@ -4603,7 +4608,10 @@ padding-left:0px;
     padding: 0 0 0 0;
 }
 
-
+.google-travel{
+	width: 725px;
+	height: 612px;
+}
  
 }
 
@@ -4684,12 +4692,10 @@ padding-left:0px;
     width: 100%;
 }
 
-
-
-
-
-
-
+.google-travel{
+	width: 710px;
+	height: 627px;
+}
 
 
 
@@ -4862,7 +4868,10 @@ display:none;
     padding: 0 0 0 0;
 }
 
-
+.google-travel{
+	width: 605px;
+	height: 600px;
+}
 
 
 
@@ -4975,7 +4984,10 @@ display:none;
     padding-bottom: 70px;
 }
 
-
+.google-travel{
+	width: 440px;
+	height: 560px;
+}
 
 
 
@@ -5137,6 +5149,10 @@ display:none;
     padding: 40px 40px 40px 40px;
 }
 
+.google-travel{
+	width: 330px;
+	height: 510px;
+}
 
 
 
@@ -5273,9 +5289,10 @@ display:none;
     padding-bottom: 35px;
 }
 
-
-
-
+.google-travel {
+    width: 280px;
+	height: 470px;
+}
 
 
 
