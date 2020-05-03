@@ -804,7 +804,7 @@ opacity:0
 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
 	background-color: cornflowerblue;
 	color: #fff;
-	border-color: #fccb06;
+	border-color: cornflowerblue;
 	cursor: default
 }
 .cbp-l-filters-button .cbp-filter-item:first-child {
@@ -1021,10 +1021,10 @@ opacity:0
 }
 .cbp-l-filters-work .cbp-filter-item:hover {
 	color: #fff;
-	background: #fccb06;
+	background: cornflowerblue;
 }
 .cbp-l-filters-work .cbp-filter-item.cbp-filter-item-active {
-	background-color: #fccb06;
+	background-color: cornflowerblue;
 	color: #fff;
 	cursor: default
 }
