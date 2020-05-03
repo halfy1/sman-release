@@ -35,7 +35,7 @@
   margin-top: 18px;
 }
 .header-section .logo.bg-prim {
-	background-color:#fccb06;
+	background-color:cornflowerblue;
 	margin:0px;
 	padding:23px 80px;
 	
@@ -153,12 +153,12 @@
 
 /* line 56, ../sass/screen.scss */
 .header-section ul li.active > a {
-  color: #fccb06;
+  color: cornflowerblue;
 }
 /* line 60, ../sass/screen.scss */
 .header-section ul li .number {
   font-size: 0.71429em;
-  background: #fccb06;
+  background: cornflowerblue;
   width: 17px;
   height: 17px;
   line-height: 17px;
@@ -308,7 +308,7 @@
   padding-bottom: 8px;
 }
 .header-section ul li.mega-menu > ul > li ul li a:hover {
- color:#fccb06;
+ color:cornflowerblue;
  margin-left:8px;
  transition: all 0.2s ease-out 0s;
 }
@@ -414,7 +414,7 @@
 }
 /* line 263, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box span {
-  color: #fccb06;
+  color: cornflowerblue;
 }
 /* line 266, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box ul {
@@ -484,7 +484,7 @@
 }
 /* line 324, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box .btn.btn-primary {
-  background: #fccb06 !important;
+  background: cornflowerblue !important;
   color: #fff;
 }
 /* line 335, ../sass/screen.scss */
@@ -555,7 +555,7 @@
   padding: 10px 35px;
   border-radius:30px;
   z-index:5;
-  background-color:#fccb06;
+  background-color:cornflowerblue;
   transition: all 0.3s ease-out 0s;
 }
 .btn-top-1:hover {
@@ -572,7 +572,7 @@
   padding: 10px 35px;
   border-radius:30px;
   z-index:5;
-  background-color:#fccb06;
+  background-color:cornflowerblue;
   transition: all 0.3s ease-out 0s;
 }
 .btn-top-2:hover {
@@ -585,7 +585,7 @@
     color: #727272;
 }
 .header-section.dark-dropdowns.style1 ul li.mega-menu > ul > li ul li a:hover {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 
 .header-section.style2{
@@ -618,22 +618,22 @@
     color: #fff;
 }
 .header-section.dark-dropdowns.style2 ul li.mega-menu > ul > li ul li a:hover {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns.style2 ul li.mega-menu > ul > li ul li.active a {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns.style2 ul li:hover > a, .header-section.dark-dropdowns.style2 ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns.style2 ul li ul li a {
     color: #727272;
 }
 .header-section.dark-dropdowns.style2 ul li:hover > a {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns.style2 ul li.active > a .active-strip {
-    background-color:#fccb06;
+    background-color: cornflowerblue;
 }
 .active-strip {
 	width:100%;
@@ -674,10 +674,10 @@
     color: #727272;
 }
 .header-section.dark-dropdowns.style4 ul li ul {
-	background-color:#101010;
+	background-color:#fff;
 }
 .header-section.dark-dropdowns.style4 ul li.mega-menu > ul > li ul li a:hover {
- color:#fccb06;
+ color:cornflowerblue;
 }
 .header-section.style4 ul li.mega-menu > ul > li ul li a:hover {
  color:#101010;
@@ -747,7 +747,7 @@
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 .header-section.dark-dropdowns ul li ul {
-	background-color:#101010;
+	background-color:white;
 }
 
 @media only screen and (min-width: 1001px) {
@@ -792,7 +792,7 @@
   }
   /* line 598, ../sass/screen.scss */
   .header-section ul li:hover > a, .header-section ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
 .header-section ul li ul li {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
@@ -845,11 +845,11 @@
     position: static;
   }
   .header-section ul li.search-parent a.m-link {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 
   .header-section ul li.cart-parent a.m-link {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 
 
@@ -902,7 +902,7 @@
     color: #101010;
   }
   .header-section.dark-dropdowns.style1 ul li:hover > a, .header-section.dark-dropdowns.style1 ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
 /* =========== menu style 2 ============ */
 
@@ -1057,10 +1057,10 @@
   
   /* line 497, ../sass/screen.scss */
   .header-section.style3 #menu ul li ul li:hover > a, .header-section.style3 #menu ul li ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   .header-section.style3 #menu ul li ul li:hover a span.sub-arrow, header-section.style3 #menu ul li ul li.active a span.sub-arrow {
-    color: #fccb06;
+    color: cornflowerblue;
   }
 
 
@@ -1070,7 +1070,7 @@
   }
   /* line 511, ../sass/screen.scss */
   .header-section.style3 #menu ul li.mega-menu li ul li:hover a, .header-section.style3 #menu ul li.mega-menu li ul li.active a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   .header-section.style3 ul li ul li a span.sub-arrow {
     float:right;
@@ -1161,7 +1161,7 @@
 
   /* line 542, ../sass/screen.scss */
   .header-section.style4 ul li ul {
-    background: #fccb06;
+    background: cornflowerblue;
   }
   /* line 544, ../sass/screen.scss */
   .header-section.style4 ul li ul li {
@@ -1184,11 +1184,11 @@
 }
 /* line 551, ../sass/screen.scss */
   .header-section.style4 ul li.search-parent .search-box {
-    background: #fccb06;
+    background: cornflowerblue;
   }
   /* line 553, ../sass/screen.scss */
   .header-section.style4 ul li.search-parent .search-box .form-control {
-    background: #fccb06;
+    background: cornflowerblue;
     border: 1px solid #f0be64;
   }
   /* line 555, ../sass/screen.scss */
@@ -1205,7 +1205,7 @@
   }
   /* line 567, ../sass/screen.scss */
   .header-section.style4 ul li.cart-parent .cart-box {
-    background: #fccb06;
+    background: cornflowerblue;
     color: #fff;
   }
   /* line 569, ../sass/screen.scss */
@@ -1239,7 +1239,7 @@
   }
   
   .header-section.style5.dark #menu ul li ul li:hover > a, .header-section.style5.dark #menu ul li ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
 .header-section.style5.dark #menu ul li ul li a {
     color: #727272;
@@ -1279,7 +1279,7 @@
 /* =========== primary color dropdowns ============ */ 
 
 .header-section.primary-dropdowns ul li ul {
-    background: #fccb06;
+    background: cornflowerblue;
   }
   /* line 546, ../sass/screen.scss */
   .header-section.primary-dropdowns ul li ul li a {
@@ -1290,10 +1290,10 @@
     margin-left: 8px;
 }
   .header-section.primary-dropdowns ul li:hover > a, .header-section.dark-dropdowns ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
  .header-section.primary-dropdowns.style4 ul li:hover > a, .header-section.dark-dropdowns.style4 ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   
   .header-section.primary-dropdowns ul li ul li a:hover {
@@ -1301,7 +1301,7 @@
     margin-left: 8px;
 }
 .header-section.primary-dropdowns ul li.cart-parent .cart-box {
-    background: #fccb06;
+    background: cornflowerblue;
 }
   
 .header-section.primary-dropdowns.mcol-title ul li.mega-menu > ul > li a {
@@ -1316,7 +1316,7 @@
  
  .header-section.act-style-1 ul li.active > a {
     color: #fff !important;
-	background-color:#fccb06 !important;
+	background-color:cornflowerblue !important;
   } 
   
  /* =========== dark color dropdowns ============ */ 
@@ -1541,7 +1541,7 @@
   }
   /* line 824, ../sass/screen.scss */
   .header-section #menu > ul li.hover > a, .header-section #menu > ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   /* line 831, ../sass/screen.scss */
   .header-section #menu > ul li.hover > .arrow:after {
@@ -1585,7 +1585,7 @@
   }
   /* line 876, ../sass/screen.scss */
   .header-section ul li.search-parent.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   /* line 879, ../sass/screen.scss */
   .header-section ul li.search-parent.active .search-box {
@@ -1597,7 +1597,7 @@
   }
   /* line 888, ../sass/screen.scss */
   .header-section ul li.cart-parent.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   /* line 891, ../sass/screen.scss */
   .header-section ul li.cart-parent.active .cart-box {
@@ -1661,7 +1661,7 @@
   }
   /* line 942, ../sass/screen.scss */
   .header-section.style3 #menu ul li.active > a, .header-section.style3 #menu ul li.hover > a {
-    color: #fccb06;
+    color: cornflowerblue;
   }
   /* line 946, ../sass/screen.scss */
   .header-section.style3 #menu ul li ul {
@@ -1685,7 +1685,7 @@
   }
   /* line 966, ../sass/screen.scss */
   .header-section.style4 ul li a {
-    color: #050505;
+    color: cornflowerblue;
   }
   /* line 971, ../sass/screen.scss */
   .header-section.style4 #menu {
@@ -1694,7 +1694,7 @@
   }
   /* line 974, ../sass/screen.scss */
   .header-section.style4 #menu ul {
-    background: #fccb06;
+    background: cornflowerblue;
   }
   /* line 976, ../sass/screen.scss */
   .header-section.style4 #menu ul li {
@@ -1719,7 +1719,7 @@
   }
   
    .header-section.dark-dropdowns.style4 #menu ul {
-    background: #101010;
+    background: white;
 }
  /* =========== menu style 5 ============ */
   .header-section.style5 #menu > ul {
@@ -1834,7 +1834,7 @@
     background: #fff;
 }
 .header-section.dark-dropdowns #menu > ul li.hover > a, .header-section.dark-dropdowns #menu > ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns #menu > ul li ul {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -1843,7 +1843,7 @@
 /*========== menu dark dropdown in style4 =============*/
 
 .header-section.dark-dropdowns.style4 #menu > ul {
-    background: #101010;
+    background: #fff;
 }
 .header-section.dark-dropdowns.style4 #menu > ul li a {
     color: #727272;
@@ -1852,13 +1852,13 @@
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 .header-section.dark-dropdowns.style4 #menu > ul li .arrow::before {
-    background: #fff;
+    background: cornflowerblue;
 }
 .header-section.dark-dropdowns.style4 #menu > ul li .arrow::after {
-    background: #fff;
+    background: cornflowerblue;
 }
 .header-section.dark-dropdowns.style4 #menu > ul li.hover > a, .header-section.dark-dropdowns.style4 #menu > ul li.active > a {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .header-section.dark-dropdowns.style4 #menu > ul li ul {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -1869,7 +1869,7 @@
 /*========== menu primary color dropdown style =============*/
 
 .header-section.primary-dropdowns #menu > ul {
-    background: #fccb06;
+    background: cornflowerblue;
 }
 .header-section.primary-dropdowns #menu > ul li a {
     color: #fff;
@@ -1890,7 +1890,7 @@
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 .header-section.primary-dropdowns ul li ul {
-    background: #fccb06;
+    background: cornflowerblue;
 }
 .btn-top-1 {
 	right:0px;
@@ -1904,11 +1904,11 @@
     padding: 70px 0 0;
 }
  .header-section ul li.search-parent a.m-link {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 
   .header-section ul li.cart-parent a.m-link {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .btn-top-1 {
     left:0px;
