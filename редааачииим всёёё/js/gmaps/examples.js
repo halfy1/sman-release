@@ -5,7 +5,7 @@ $(function () {
 		{
 			latitude: -2.206,
 			longitude: -79.897,
-			maptype: 'TERRAIN', // 'HYBRID', 'SATELLITE', 'ROADMAP' or 'TERRAIN'
+			maptype: 'SATELLITE', // 'HYBRID', 'SATELLITE', 'ROADMAP' or 'TERRAIN'
 			zoom: 8,
 			controls: {
 				panControl: true,

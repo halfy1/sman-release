@@ -5210,8 +5210,8 @@ tp-caption.Team-Thumb,
 	color:#fff;
 }
 .tp-caption.sbut2.dark a{
-	background-color:#000;
-	color:#727272;
+	background-color: white;
+	color: cornflowerblue;
 }
 
 .tp-caption.sbut2.dark a:hover{
