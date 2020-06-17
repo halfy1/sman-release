@@ -2323,6 +2323,9 @@ ul.list-2.bg-green li {
 ul.list-2.bg-prim li {
 	background-color:#fccb06;
 }
+ul.list-2.bg-blue li {
+	background-color:cornflowerblue;
+}
 ul.list-2.bg-prim li .title {
 	color:#fff;
 }
