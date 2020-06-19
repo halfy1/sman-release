@@ -42,7 +42,7 @@ image hover styles
 	float: left;
 	z-index:0;
 	transition: all 0.3s ease-out 0s;
-	background-color:#fccb06;
+	background-color:cornflowerblue;
 }
 .img-hover-1:hover .img-hover-1 img {
 	top:280px;
@@ -87,7 +87,7 @@ image hover styles
 	line-height:50px;
 	text-align:center;
 	margin-right:20px;
-	background-color: #fccb06;
+	background-color: cornflowerblue;
 	border-radius: 100%;
 }
 .img-hover-2 .text-box .icon-1.two {
@@ -202,7 +202,7 @@ image hover styles
     width: 100%;
 }
 .datepicker-input:focus {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
     outline: medium none !important;
     transition: all 0.3s ease-out 0s;
 }
@@ -301,7 +301,7 @@ image hover styles
  
 .blockquote-2 {
   background: #101010;
-  border-left: 6px solid #fccb06;
+  border-left: 6px solid cornflowerblue;
   margin: 0 0 20px;
   padding: 30px 20px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -311,7 +311,7 @@ image hover styles
  ------------------------------ */
  
 .blockquote-3 {
-  background: #fccb06;
+  background: cornflowerblue;
   border-left: 6px solid #101010;
   margin: 0 0 20px;
   padding: 30px 20px;
@@ -339,10 +339,10 @@ image hover styles
   quotes: "\201C""\201D""\2018""\2019";
 }
 .blockquote-4 cite {
-	color:#fccb06;
+	color:cornflowerblue;
 }
 .blockquote-4 small {
-	color:#fccb06;
+	color:cornflowerblue;
 }
 .blockquote-4.text-right {
 	text-align:right;
@@ -372,7 +372,7 @@ image hover styles
 
 .breadcrumbs-1 a:hover{
 	color:#fff;
-  background: #fccb06;
+  background: cornflowerblue;
 }
 
 .breadcrumbs-1 a::before{
@@ -388,7 +388,7 @@ image hover styles
 }
 
 .breadcrumbs-1 a:hover::before{
-  border-color: #fccb06 #fccb06 #fccb06 transparent;
+  border-color: cornflowerblue cornflowerblue cornflowerblue transparent;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -405,19 +405,19 @@ image hover styles
 }
 
 .breadcrumbs-1 a:hover::after{
-  border-left-color: #fccb06;
+  border-left-color: cornflowerblue;
 }
 
 .breadcrumbs-1 a.current{
-  background: #fccb06;
+  background: cornflowerblue;
   color: #fff;
   text-shadow: none; 
 }
 .breadcrumbs-1 a.current::after{
-  border-left: 1em solid #fccb06;
+  border-left: 1em solid cornflowerblue;
 }
 .breadcrumbs-1 a.current::before{
-  border-color: #fccb06 #fccb06 #fccb06 transparent;
+  border-color: cornflowerblue cornflowerblue cornflowerblue transparent;
 }
 
 
@@ -429,33 +429,33 @@ image hover styles
 }
 .breadcrumbs-1.dark a:hover{
 	color:#fff;
-  background: #fccb06;
+  background: cornflowerblue;
 }
 .breadcrumbs-1.dark a::before{
   border-color: #101010 #101010 #101010 transparent; 
 }
 
 .breadcrumbs-1.dark a:hover::before{
-  border-color: #fccb06 #fccb06 #fccb06 transparent;
+  border-color: cornflowerblue cornflowerblue cornflowerblue transparent;
 }
 
 .breadcrumbs-1.dark a::after{
   border-left: 1em solid #101010;
 }
 .breadcrumbs-1.dark a:hover::after{
-  border-left-color: #fccb06;
+  border-left-color: cornflowerblue;
 }
 
 .breadcrumbs-1.dark a.current{
-  background: #fccb06;
+  background: cornflowerblue;
   color: #fff;
   text-shadow: none; 
 }
 .breadcrumbs-1.dark a.current::after{
-  border-left: 1em solid #fccb06;
+  border-left: 1em solid cornflowerblue;
 }
 .breadcrumbs-1.dark a.current::before{
-  border-color: #fccb06 #fccb06 #fccb06 transparent;
+  border-color: cornflowerblue cornflowerblue cornflowerblue transparent;
 }
 
 
@@ -470,7 +470,7 @@ image hover styles
 	padding:0 15px;
 }
 .breadcrumbs-2 li.current a {
-	color:#fccb06;
+	color:cornflowerblue;
 	
 }
 .breadcrumbs-2 li span i {
@@ -593,8 +593,8 @@ image hover styles
 	border-color:#f3c500;
 }
 .btn.border.border-orange {
-	color:#fccb06;
-	border-color:#fccb06;
+	color:cornflowerblue;
+	border-color:cornflowerblue;
 }
 .btn.border.border-red {
 	color:#ea4b35;
@@ -726,7 +726,7 @@ image hover styles
     color: #fff;
 }
 .btn.btn-orange{
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     color: #fff;
 }
 .btn.-btn-orange:hover {
@@ -1077,7 +1077,7 @@ span.counter {
 }
 .dropcap.dropcap-color-1{
   color:#fff;
-  background-color:#fccb06;
+  background-color:cornflowerblue;
 }
 .dropcap.dropcap-dark{
   color:#fff;
@@ -1238,7 +1238,7 @@ span.counter {
     width: 100%;
 }
 .input-1:focus {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
     outline: medium none !important;
     transition: all 0.3s ease-out 0s;
 }
@@ -1258,7 +1258,7 @@ span.counter {
     width: 100%;
 }
 .textaria-1:focus {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
     outline: medium none !important;
     transition: all 0.3s ease-out 0s;
 }
@@ -1837,7 +1837,7 @@ div#clock4 p {
 	background-color:#fff;
 }
 div#clock4 p b {
-	color:#fccb06;
+	color:cornflowerblue;
 	font-weight: normal;
 	text-transform: uppercase;
 }
@@ -1878,7 +1878,7 @@ div#clock5 p {
 	text-align:center;
 }
 div#clock5 p b {
-	color:#fccb06;
+	color:cornflowerblue;
 	font-weight: normal;
 	text-transform: uppercase;
 }
@@ -2006,7 +2006,7 @@ div#clock8 p {
 	text-align:center;
 }
 div#clock8 p b {
-	color:#fccb06;
+	color:cornflowerblue;
 	font-weight: normal;
 	text-transform: uppercase;
 }
@@ -2321,7 +2321,7 @@ ul.list-2.bg-green li {
 	background-color:#1fcf6d;
 }
 ul.list-2.bg-prim li {
-	background-color:#fccb06;
+	background-color:cornflowerblue;
 }
 ul.list-2.bg-blue li {
 	background-color:cornflowerblue;
@@ -2692,8 +2692,8 @@ a.img-thumbnail-link:hover {
 .pagination.hover-blue > li > a:hover, .pagination.hover-blue > li > span:hover,
 .pagination.hover-blue > li > a.active{
 	color: #fff;    
-    border-color: #fccb06;
-	background-color: #fccb06;
+    border-color: cornflowerblue;
+	background-color: cornflowerblue;
     
 }
 .pagination.hover-violet > li > a:hover, .pagination.hover-violet > li > span:hover,
@@ -2792,17 +2792,17 @@ a.img-thumbnail-link:hover {
     border-bottom: medium none;
 }
 .pricing-table-1:hover a.btn.btn-dark-3, .pricing-table-1.active a.btn.btn-dark-3 {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     color: #fff;
 }
 .pricing-table-1:hover .title, .pricing-table-1.active .title {
     color: #fff;
 }
 .pricing-table-1:hover .inner-box .price-circle .price, .pricing-table-1.active .inner-box .price-circle .price {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .pricing-table-1:hover .inner-box .price-circle, .pricing-table-1.active .inner-box .price-circle {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 
 
@@ -2865,19 +2865,19 @@ a.img-thumbnail-link:hover {
     border-bottom: medium none;
 }
 .pricing-table-2:hover .inner-box, .pricing-table-2.active .inner-box {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
 }
 .pricing-table-2:hover .inner-box .price-circle, .pricing-table-2.active .inner-box .price-circle {
-    border: 3px solid #fccb06;
+    border: 3px solid cornflowerblue;
 }
 .pricing-table-2:hover .inner-box .price-circle .price, .pricing-table-2.active .inner-box .price-circle .price {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .pricing-table-2:hover .inner-box .price-circle, .pricing-table-2.active .inner-box .price-circle {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .pricing-table-2:hover .inner-box .btn.btn-dark-3, .pricing-table-2.active .inner-box .btn.btn-dark-3 {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     color: #fff;
 }
 
@@ -2956,7 +2956,7 @@ a.img-thumbnail-link:hover {
     width: 100%;
 }
 .pricetable-active-bg-strip {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     float: left;
     height: 25px;
     margin: 0;
@@ -2964,7 +2964,7 @@ a.img-thumbnail-link:hover {
     width: 100%;
 }
 .pricing-table-3.active {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     padding-bottom: 60px;
 }
 .pricing-table-3.active .features-list li {
@@ -3144,7 +3144,7 @@ a.img-thumbnail-link:hover {
     background-color: #2a2a2a;
 }
 .pricing-table-5.active .features-list li:nth-child(2n) {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
 }
 .pricing-table-5-top-strip {
     background-color: #fff;
@@ -3155,10 +3155,10 @@ a.img-thumbnail-link:hover {
     width: 100%;
 }
 .pricing-table-5-top-strip.active {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
 }
 .pricing-table-5.active {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     padding-bottom: 60px;
 }
 .pricing-table-5.active .features-list li {
@@ -3291,7 +3291,7 @@ a.img-thumbnail-link:hover {
     color: #fff;
 }
 .pricing-badge.badge-blue {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
     color: #fff;
 }
 .pricing-badge.badge-violet {
@@ -3369,7 +3369,7 @@ a.img-thumbnail-link:hover {
 	overflow: visible;
 	background-color: #101010;
 	font-size: 13px;
-	color: #fccb06;
+	color: cornflowerblue;
 	line-height:44px;
 	padding: 0px 0 0 0px;
 	text-align: left;
@@ -3501,7 +3501,7 @@ a.img-thumbnail-link:hover {
 }
 .progress-color-blue {
 	color: #161616;
-	background: #fccb06;
+	background: cornflowerblue;
 }
 .progress-color-blue .progress-bar {
 	background: rgba(0, 0, 0, 0.2);
@@ -3600,8 +3600,8 @@ ul.process-steps {
 }
 .process-steps li a .icon.active-blue{
 	color:#fff;
-	border:1px solid #fccb06;
-	background-color:#fccb06;
+	border:1px solid cornflowerblue;
+	background-color:cornflowerblue;
 }
 .process-steps.dark li a .icon{
 	color:#fff;
@@ -3699,7 +3699,7 @@ ul.process-steps {
     height: 275px;
 }
 .post-style-3 .text-box .blog-post-info span {
-    color: #fccb06;
+    color: cornflowerblue;
 }
 .post-style-3 .ce4-post-img .arrow-up {
     border-bottom: 20px solid #fff;
@@ -4583,10 +4583,10 @@ ul.social-icons {
     z-index: 3;
 }
 .team-style-2:hover .img-box .text-box, .team-style-2.active .img-box .text-box {
-    background-color: #fccb06;
+    background-color: cornflowerblue;
 }
 .team-style-2:hover, .team-style-2.active {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
 }
 .team-style-2:hover p, .team-style-2.active p {
     color: #fff;
@@ -4720,7 +4720,7 @@ ul.social-icons {
     width: 100%;
 }
 .testimonials-2:hover .inner-box, .testimonials-2.active .inner-box {
-    border: 1px solid #fccb06;
+    border: 1px solid cornflowerblue;
 }
 
 
@@ -4848,7 +4848,7 @@ ul.social-icons {
     text-transform: uppercase;
 }
 .typography-title-5 {
-	color: #fccb06;
+	color: cornflowerblue;
     font-size:80px;
     font-weight: 400;
     letter-spacing: 20px;
@@ -4863,7 +4863,7 @@ ul.social-icons {
 	height:2px;
 	margin-top:10px;
 	margin-bottom:50px;
-	background-color:#fccb06;
+	background-color:cornflowerblue;
 }
 .typography-title-line-3 {
 	width:20%;
