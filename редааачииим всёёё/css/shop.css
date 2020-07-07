@@ -682,7 +682,11 @@ width:90%;
 
 
 }
-
+@media screen and (max-width: 600px) {
+	.sp-top-banner-2 .img-box img {
+		width: 540px;
+	}
+}
 
 @media screen and (max-width: 480px) {
 .sp-header-inner {
@@ -697,7 +701,9 @@ width:90%;
 .sp-header-inner .text .sub-title {
     font-size: 14px;
 }
-
+.sp-top-banner-2 .img-box img {
+	width: 432px;
+}
 
 
 

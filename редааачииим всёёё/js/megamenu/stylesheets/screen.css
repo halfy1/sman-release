@@ -1518,6 +1518,7 @@
     right: 25px;
     cursor: pointer;
     z-index: 999;
+    background-color: cornflowerblue;
 }
   /* line 802, ../sass/screen.scss */
   .header-section #menu > ul li .arrow:before {
@@ -1819,7 +1820,7 @@
 /*========== menu dark dropdown style =============*/
 
 .header-section.dark-dropdowns #menu > ul {
-    background: #101010;
+    background: #fff
 }
 .header-section.dark-dropdowns #menu > ul li a {
     color: #727272;

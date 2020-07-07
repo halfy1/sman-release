@@ -5297,3 +5297,12 @@ display:none;
 
 
 }
+
+/* ---------- PHONE RESPONSIVE ---------- */
+/* --- iPhone 5/se/se2 --- */
+@media only screen and (max-width: 320px) {
+.google-travel {
+    width: 280px;
+	height: 470px;
+}
+}
