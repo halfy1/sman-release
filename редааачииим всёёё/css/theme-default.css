@@ -5290,6 +5290,8 @@ display:none;
 }
 
 .google-travel {
+	margin: 10px auto;
+	padding: 10px auto;
     width: 280px;
 	height: 470px;
 }
@@ -5299,6 +5301,12 @@ display:none;
 }
 
 /* ---------- PHONE RESPONSIVE ---------- */
+/* --- Вот эти новомодные лопаты-телефоны --- */
+@media only screen and (max-width: 500px) {
+	.google-travel {
+		max-width: 440px;
+		height: 500px;
+	}
 /* --- iPhone 5/se/se2 --- */
 @media only screen and (max-width: 320px) {
 .google-travel {
